@@ -4,7 +4,7 @@ TD $\Delta$ $\Theta$: A Geometric Statistic for Quantifying the Temporal-Spatial
 
 ## [TD_Delta_Theta_function.R](https://github.com/tsnm1/LRBmat/blob/main/model_functions.R)
 
-This file mainly contains the subsequent required functions, including data generation and $\textit{\Delta\Theta}$ estimation.
+This file mainly contains the subsequent required functions, including data generation and TD $\Delta$ $\Theta$ estimation.
 
 ## [TD_Delta_Theta_example.R](https://github.com/tsnm1/LRBmat/blob/main/add_experiments.R)
 
