@@ -1,21 +1,11 @@
-# TD_Delta_Theta (*TD$\Delta \Theta$*)
+# TD_Delta_Theta ($\textit{TD\Delta\Theta}$)
 
-# LRBmat
+$\textit{TD\Delta\Theta}$: A Geometric Statistic for Quantifying the Temporal-Spatial Correlation Between Tree-Shaped Datasets. 
 
-LRBmat (Binary matrix based on Logistic Regression) is proposed when there is complex interaction between covariates and heterogeneity between covariates and response variables. 
+## [TD_Delta_Theta_function.R](https://github.com/tsnm1/LRBmat/blob/main/model_functions.R)
 
-## [model_functions.R](https://github.com/tsnm1/LRBmat/blob/main/model_functions.R "model_functions.R")
+This file mainly contains the subsequent required functions, including data generation and $\textit{\Delta\Theta}$ estimation.
 
-This file mainly contains the subsequent required functions, including data generation function, variable selection function, heterogeneity test function, various classification function and so on.
+## [TD_Delta_Theta_example.R](https://github.com/tsnm1/LRBmat/blob/main/add_experiments.R)
 
-## [model_simulation.R](https://github.com/tsnm1/LRBmat/blob/main/model_simulation.R "model_simulation.R")
-
-This file is mainly the code of the simulation part, which mainly includes three parts: the first is the generation of data, the second is the comparison of several logistic models, and the third is the effect of binary matrix on other classification methods.
-
-## [model_real_data_analysis.R](https://github.com/tsnm1/LRBmat/blob/main/model_real_data_analysis.R "model_real_data_analysis.R")
-
-This part is the analysis of real world data. The main content is similar to simulation, but the difference is that the real data model includes the test of heterogeneity and the analysis of association rules.
-
-## [add_experiments.R](https://github.com/tsnm1/LRBmat/blob/main/add_experiments.R)
-
-The code is divided into two main parts. The first part demonstrates the classification of patients at different CRC stages and the problem of classifying adenoma (precancerous stage) and normal stages. The second part demonstrates two different approaches to the redundancy of association rules.
+This file is an example of using $\textit{TD\Delta\Theta}$.
