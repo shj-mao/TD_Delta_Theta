@@ -1,4 +1,4 @@
-# TD_Delta_Theta (TD \Delta \Theta)
+# TD_Delta_Theta (TD &Delta &Theta)
 
 # LRBmat
 
