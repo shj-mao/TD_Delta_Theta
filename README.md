@@ -1,4 +1,4 @@
-# TD_Delta_Theta (TD $\Delta$ $\Theta$)
+# TD_Delta_Theta (TD$\Delta\Theta$)
 
 TD $\Delta$ $\Theta$: A Geometric Statistic for Quantifying the Temporal-Spatial Correlation Between Tree-Shaped Datasets. 
 
