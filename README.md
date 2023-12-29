@@ -1,4 +1,4 @@
-# TD_Delta_Theta (TD $\Delta \Theta$)
+# TD_Delta_Theta (<i>TD $\Delta \Theta$</i>)
 
 TD $\Delta \Theta$: A Geometric Statistic for Quantifying the Temporal-Spatial Correlation Between Tree-Shaped Datasets. 
 
@@ -8,4 +8,4 @@ This file mainly contains the subsequent required functions, including data gene
 
 ## [TD_Delta_Theta_example.R](https://github.com/tsnm1/LRBmat/blob/main/add_experiments.R)
 
-This file is an example of using TD\$\Delta \Theta$.
+This file is an example of using TD $\Delta \Theta$.
